@@ -1,0 +1,45 @@
+<?xml-stylesheet type = "text/xsl" href="textbook.xsl"?>
+<textbooks>
+   <textbook>
+      <title>Internet &amp; World Wide Web: How to Program</title>
+        <authors>
+            <author>
+                <name>Harvey</name>
+                <lastname>Deitel</lastname>
+            </author>
+            <author>
+                <name>Paul</name>
+                <lastname>Deitel</lastname>
+            </author>
+            <author>
+                <name>A.B.</name>
+                <lastname>Goldberg</lastname>
+            </author>
+        </authors>
+        <publisher>
+            <name>Prentice Hall</name>
+            <website>www.pearson.com/en-us.html</website>
+        </publisher>
+      <YearOfPublication>2003</YearOfPublication>
+      <ISBN>0131450913</ISBN>
+      <edition>3rd</edition>
+      <CoverType>Paperback</CoverType>
+   </textbook>
+   <textbook>
+      <title>Web Coding &amp; Development All-in-One For Dummies</title>
+      <authors>
+            <author>
+                <name>Paul</name>
+                <lastname>McFedries</lastname>
+            </author>
+      </authors>
+        <publisher>
+            <name>For Dummies</name>
+            <website>www.dummies.com</website>
+        </publisher>
+      <YearOfPublication>2018</YearOfPublication>
+      <ISBN>1119473926</ISBN>
+      <edition>1st</edition>
+      <CoverType>Paperback</CoverType>
+   </textbook>
+</textbooks>
